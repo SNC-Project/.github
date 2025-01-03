@@ -24,4 +24,5 @@ At SNC-Project, we aim to fuse our expertise and passion, utilizing **AI**, **co
 
 Join us as we embark on this interdisciplinary journey, pushing the frontiers of science and technology!
 
----
+### Opensource List
+
