@@ -10,7 +10,7 @@ Welcome to **SNC-Project**, a collaborative research endeavor born from the shar
 
 - **Guest Members**
   - **Kim Hangyeol Park** : studying service planning and web development
-  - **Sunje Kuem** : 
+  - **Sunje Kuem** :  studying iOS development 
 
 
 
